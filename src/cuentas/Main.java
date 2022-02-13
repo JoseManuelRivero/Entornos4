@@ -15,6 +15,7 @@ public class Main {
      */
     public static void main(String[] args) {
         operativa_cuenta(0);
+        boolean prueba=true;
     }
 
     private static void operativa_cuenta(float cantidad) {
